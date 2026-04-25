@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation for the paper "DiS-MoE: Spatial-Temporal Distribution Shift Aware Mixture-of-Experts Model for Urban Atmospheric Forecasting".
 
-This paper proposes a Spatio-temporal distribution Shift aware Mixture-of-Experts model (DiS-MoE) to address challenging Spatial-Temporal Distribution shift problems in urban atmospheric forecasting.
+This paper proposes a Spatio-Temporal Distribution Shift aware Mixture-of-Experts model (DiS-MoE) to address challenging Spatial-Temporal Distribution shift problems in urban atmospheric forecasting.
 
 ## Table of Contents
 - [DiS-MoE: Spatial-Temporal Distribution Shift Aware Mixture-of-Experts Model for Urban Atmospheric Forecasting](#dis-moe-spatial-temporal-distribution-shift-aware-mixture-of-experts-model-for-urban-atmospheric-forecasting)
